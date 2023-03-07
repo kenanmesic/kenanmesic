@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+#  About Me:
 My name is Kenan and I live in California. I like snowboarding and pizza.
 
 # 💻 Tech Stack:
