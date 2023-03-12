@@ -12,8 +12,6 @@ My name is Kenan and I live in California. I like snowboarding and pizza.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kenanmesic&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=troubski)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
